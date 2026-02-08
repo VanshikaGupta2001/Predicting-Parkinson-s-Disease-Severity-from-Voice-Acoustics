@@ -75,7 +75,3 @@ This project demonstrates why mixed-effects models are essential for:
 - Clinical monitoring and telemedicine applications
 - Reliable biomarker identification
 
----
-
-## 📁 Repository Structure
-
